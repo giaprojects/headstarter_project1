@@ -1,3 +1,5 @@
+# Headstarter Project 1
+## Group Members: Bamlak Assaye,Gia Liu, Kimberly Toro, Nicole Shaker
 # Song Recommendation Using Vector Database 
 
 <img width="1726" alt="Screenshot 2024-06-05 at 14 40 11" src="https://github.com/gialiubc/Weaviate_Song_Recommendation_App/assets/141379548/2da80a6a-ad75-4c82-a459-cb640f17b527">
